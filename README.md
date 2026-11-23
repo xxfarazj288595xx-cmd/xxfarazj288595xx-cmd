@@ -2,7 +2,7 @@
 
 # Faraz Jamshidi
 
-**Electrical Engineering · Control & Robotics · Web Tools**
+**Electrical Engineering Student · PCB Design · Control & Robotics**
 
 K. N. Toosi University of Technology
 
@@ -10,15 +10,15 @@ K. N. Toosi University of Technology
 
 </div>
 
-I’m an electrical engineering student interested in control and robotics. My projects range from modeling how a quadrotor’s mass distribution changes with a tilted attachment to building a WooCommerce tool that helps shoppers choose a jump starter for their car.
+I designed and built the RAYABUY storefront end to end and continue to run and develop it. My engineering projects cover circuit simulation, semiconductor modeling, and quadrotor dynamics. I’m especially interested in control and robotics.
 
 ## Selected projects
 
-### RAYABUY · Vehicle Jump Starter Finder
+### RAYABUY · WooCommerce Storefront
 
-I worked on a Persian-language shopping tool that starts with the customer’s vehicle and narrows down the jump starters in the store. The result cards explain why an item is recommended or excluded so shoppers can see the reasoning behind the match.
+I designed and built the full Persian-language storefront on WordPress and WooCommerce, from the homepage and product pages to the catalog and navigation. I publish product listings myself and handle the site’s ongoing maintenance and improvements.
 
-**My work** · Vehicle and product data, compatibility logic, result-card design, and WooCommerce integration. [Visit RAYABUY](https://rayabuy.com/)
+One feature I built is a **vehicle jump starter finder**. Shoppers select their car, and the tool explains why each product is recommended or ruled out. [Visit RAYABUY](https://rayabuy.com/)
 
 ### Quadrotor · Inertia Tensor and Rod-Tip Kinematics
 
@@ -38,6 +38,13 @@ I simulated diode I–V characteristics, half-wave and full-wave bridge rectifie
 
 **Tools** · OrCAD Capture and PSpice A/D.
 
+## Technical skills
+
+- **PCB design** · Altium Designer
+- **Circuit simulation** · OrCAD Capture, PSpice
+- **Scientific computing** · Python, NumPy, Matplotlib
+- **Web development** · WordPress, WooCommerce, Elementor
+
 ## Research presentation
 
 **Autonomous Nano-Drone Racing** · My course presentation on Lamberti and colleagues’ sim-to-real study. I explained how the researchers trained an obstacle-avoidance model in simulation and compared two navigation policies on a real nano-drone. [Read the paper](https://arxiv.org/abs/2312.08991)
@@ -46,6 +53,6 @@ I simulated diode I–V characteristics, half-wave and full-wave bridge rectifie
 
 <div dir="rtl">
 
-من فراز جمشیدی‌ام، دانشجوی مهندسی برق دانشگاه خواجه نصیر و علاقه‌مند به کنترل و رباتیک. اینجا پروژه‌هایی رو معرفی می‌کنم که روی آن‌ها کار کرده‌ام، از ابزار انتخاب جامپ استارتر رایابای تا مدل‌سازی اینرسی کوادروتور و شبیه‌سازی مدارهای دیودی.
+من فراز جمشیدی‌ام، دانشجوی مهندسی برق دانشگاه خواجه نصیر و علاقه‌مند به کنترل و رباتیک. فروشگاه اینترنتی رایابای رو خودم از طراحی تا اجرا ساختم و انتشار محصولات، نگهداری و توسعهٔ سایت هم با خودمه. با Altium Designer برای طراحی برد و با PSpice برای شبیه‌سازی مدار کار می‌کنم.
 
 </div>
